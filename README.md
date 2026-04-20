@@ -22,13 +22,13 @@
   - C++
   - Python (MicroPython, CircuitPython)
 - 🚀 Indie game developer
-- 🔒 Some projects are under NDA
+- 🔒 Some projects
 
 ---
 
 ## 🎯 Current Projects
 
-- ⚔️ **Korrin Horne**
+- ⚔️ **Korrin Horne**  ( https://store.steampowered.com/app/4128090/Korrin_Horne/ )
 - ⚡ **Volt Surge**
 - 🧪 Other experimental projects (NDA)
 
@@ -45,7 +45,7 @@
 ## 🌐 Studio
 
 👉 **Cygan Studios**  
-(put your link here)
+(https://cyganstudios.pl)
 
 ---
 
